@@ -60,7 +60,7 @@ public class MainActivity extends Activity {
 
     private String message,retCode,first;
     String url="http://112.116.119.47:81/android/hwy/web-msg-sender/";
-    String str_reg_update = url+"reg_update.php";  //1更新tv登录，2退出状态 3重装时 mac 检查
+    String str_reg_update = url+"reg_update.php";  //1更新tv登录，2退出状态 3重装时 mac 检查  4
     String str_index="";
 
     int p=1;
